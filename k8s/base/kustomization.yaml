@@ -9,4 +9,4 @@ resources:
 images:
 - name: ghcr.io/OWNER/devops-portfolio
   newName: ghcr.io/ziyotek-edu/devops-portfolio
-  newTag: sha-e485893
+  newTag: sha-5d3914a
