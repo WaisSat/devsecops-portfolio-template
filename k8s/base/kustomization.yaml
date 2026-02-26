@@ -11,4 +11,4 @@ images:
   newTag: local
 - name: ghcr.io/ziyotek-edu/devops-portfolio
   newName: ghcr.io/ziyotek-edu/devops-portfolio
-  newTag: sha-f6dc9b8
+  newTag: sha-40fda82
