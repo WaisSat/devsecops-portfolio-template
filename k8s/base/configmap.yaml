@@ -3,11 +3,11 @@ kind: ConfigMap
 metadata:
   name: portfolio-config
 data:
-  STUDENT_NAME: "Your Name"
-  GITHUB_USERNAME: "your-github-username"
+  STUDENT_NAME: "Wais"
+  GITHUB_USERNAME: "waissat"
   GITHUB_REPO: "devsecops-portfolio-template"
-  BIO: "DevOps engineer building secure, automated infrastructure."
+  BIO: "DevsecOps engineer building secure, automated infrastructure."
   VAULT_ADDR: "http://vault.default:8200"
   VAULT_SECRET_PATH: "secret/data/github-app"
-  # LINKEDIN_URL: ""
+  LINKEDIN_URL: "https://www.linkedin.com/in/wais-satari-a468a7127/"
   # WEBSITE_URL: ""
