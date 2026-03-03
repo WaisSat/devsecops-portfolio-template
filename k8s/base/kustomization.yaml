@@ -9,4 +9,4 @@ resources:
 images:
 - name: ghcr.io/OWNER/devops-portfolio
   newName: ghcr.io/WaisSat/devops-portfolio
-  newTag: sha-84bfc73
+  newTag: sha-80ec0bc
